@@ -1,3 +1,16 @@
+### THIS IS THE [GADG_IT](https://github.com/m-d-webdev/tech-gadget-selling)  PROJECT DASHBOARD--
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/35462478-a77d-476b-afc3-0e0760b8f4c5" />
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e2de097d-534f-4b19-bf84-0d3a14fff45c" />
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
